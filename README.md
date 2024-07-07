@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @elshwaihy
-- 👀 I’m interested in back-end development 
-- 🌱 I’m currently learning django
+- 👀 I’m interested in devops
+- 🌱 I’m currently learning ci-cd pipelines
 
 
 <!---
