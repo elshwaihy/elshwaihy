@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @elshwaihy
 - 👀 I’m interested in devops
-- 🌱 I’m currently learning ci-cd pipelines
 
 
 <!---
